@@ -4,7 +4,7 @@ export const Profile = () => {
     <div className="row">
       <div className="col-sm-9">
         <h3>
-          Фамилия и имя: <span>Иванов Иван</span>
+          Фамилия и имя: <span>Сидоров Виктор</span>
         </h3>
         <p>Обо мне. Тут я рассказываю историю своей жизни.</p>
         <p>
