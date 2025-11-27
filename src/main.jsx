@@ -5,6 +5,6 @@ import { getUser, getUsers } from "./state";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
-    <App functions={{key_getUser: getUser, key_getUsers: getUsers}}/>
+    <App user={{key_getUser: getUser, key_getUsers: getUsers}}/>
   </BrowserRouter>
 );
